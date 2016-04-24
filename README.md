@@ -3,4 +3,4 @@
 Python addon scripts for Subtitling in the Blender Video Sequence Editor.
 
 
-![Alt text](natcern/textSync2d-3D/ytvideo.jpg?raw=true "Optional Title")
+![YouTube Video](natcern/textSync2d-3D/ytvideo.jpg?raw=true "Optional Title")
